@@ -1,5 +1,5 @@
 # OWASP Juice Shop Project
-This proposal is a draft and you can leave feedback by raising an issue or by comment.
+This proposal is a draft and you can leave feedback by raising an issue.
 
 ## Personal Information
 
