@@ -1,24 +1,24 @@
 # OWASP Juice Shop Project
-This proposal is a draft and I would be grateful if you leave feedback.
+This proposal is a draft and you can leave feedback by raising an issue or by comment.
 
 ## Personal Information
 
 ### Contact Information
 
-  - Student name: Jay Rathod
+  - Name: Jay Rathod
   - Email ID: jdrathod1308@gmail.com
-  - GitHub: https://github.com/Jd-rathod
   - LinkedIn: https://www.linkedin.com/in/jay-rathod-851b93193
+  - GitHub: https://github.com/Jd-rathod
 
-### Student affiliation
+### Eduactional Details
 
-Institute of Technology, Nirma University
+**Collage/University** : Institute of Technology, Nirma University
 
-Computer Science and Engineering (B.Tech)
+**Branch** : Computer Science and Engineering (B.Tech)
 
-3rd year(6th semester), 2022 (expected graduation)
+**Year** : 3rd year(6th semester), 2022 (expected graduation)
 
-### Brief bio
+### Breif About Me
 
 I am continuously working on Web development and android application development, I am highly interested in contributing into an open source project.
 
@@ -43,13 +43,13 @@ I want to make web interface more user friendly as well as good using web develo
 
 many modules in [src](https://github.com/bkimminich/juice-shop/tree/master/frontend/src) have not been modified, I am willing to work on it and make possible updates.
 
-I am studing the code and trying to figure out which thing are needed to be done and how I can do that.
+I am studing the code and trying to figure out which things are needed to be done and how I can do that.
 
-## SAT Questions
+## Questions
 
 > What do you want to achieve?
 
-I want to contribute as much as I can to the project. By the end of the Summer, I intend to have add/update all necessary modules and improve Web Interface of the project.
+I want to contribute as much as I can to the project. During this internship, I intend to have add/update all necessary modules and improve Web Interface of the project.
 
 > What makes you suited to carry the project?
 
@@ -57,7 +57,7 @@ I have good experience with Web development as well as App development. I would 
 
 > How much time do you plan to invest in the project before, during and after the Summer of Code?
 
-I plan to invest approx 4-5 hours everyday during the coding period. I will also interact and discuss ideas during the Community bonding period. I intend to continue contributing to the project after Summer of Code, since I found it vary interesting.
+I plan to invest approx 4-5 hours everyday during the coding period. I will also interact and discuss ideas during the Community bonding period. I intend to continue contributing to the project after Summer of Code, since I found it very interesting.
 
 ## Timeline
 
